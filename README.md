@@ -1,5 +1,7 @@
 # Exploratory data analysis in Python
 
+![chevrolet chevelle malibu](/pic/img-chevrole.jpg)
+
 I. Для [набора данных](https://archive.ics.uci.edu/ml/datasets/auto+mpg "Auto MPG Data Set"):
 Импортировать data set.
 Провести предобработку (проверить на наличие выбросов, пропусков). Если есть выбросы, удалить. Если есть пропуски, обработать, как сочтёте нужным.
